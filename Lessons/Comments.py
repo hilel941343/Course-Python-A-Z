@@ -1,6 +1,7 @@
 #In this first lesson we will learn how to write a comment in python laguage.
 #Printing my name 
-print('hello, Alex')
+#הערות
+print('Hello, Hillel')
 
 
 
