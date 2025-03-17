@@ -1,2 +1,3 @@
 # Course-Python-A-Z
-קורס פייתון בסיסי אשר מקיף נושאים רבים של שפת התכנות פייתון כל נושא בצורה ממוקדת אפשר להעמיק יותר בכל נושא.
+A basic Python course that covers many topics of the Python programming language, each topic in a focused manner. 
+You can delve deeper into each topic.
