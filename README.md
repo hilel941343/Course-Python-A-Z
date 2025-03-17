@@ -4,5 +4,4 @@ You can delve deeper into each topic.
 
 # Link to the course in Youtube:
 https://youtu.be/MAdr67RNrMg?si=rxRBn1hZCzfFuB0r
-ך
-ך
+
